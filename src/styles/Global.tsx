@@ -64,6 +64,9 @@ export const colors = {
     grey6: {
       color: "$grey6",
     },
+    socialInstagram: {
+      color: "$socialInstagram",
+    }
   },
 };
 

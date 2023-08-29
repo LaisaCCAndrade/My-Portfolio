@@ -50,6 +50,7 @@ export const StackCard = styled("div", {
       top: 0,
       transform: "translateY(-140%)",
       animation: `${scaleUp} 200ms`,
+      color: "#CF50AC",
     },
   },
 });

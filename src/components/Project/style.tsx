@@ -53,13 +53,13 @@ export const Project = styled("article", {
       },
 
       "&::before": {
-        content: 'New',
+        content: 'Novo',
         position: "absolute",
         top: "5px",
         right: "-4rem",
         width: "max-content",
         height: "28px",
-        backgroundColor: "$brand1",
+        backgroundColor: "$socialInstagram",
         padding: "0px 8px",
         borderRadius: "var(--radii-1)",
         fontSize: "14px",

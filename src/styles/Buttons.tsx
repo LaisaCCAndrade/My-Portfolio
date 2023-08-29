@@ -27,8 +27,8 @@ export const Button = styled("button", {
         fontWeight: "500",
       },
       primary: {
-        background: "$brand1",
-        borderColor: "$brand1",
+        background: "$socialInstagram",
+        borderColor: "$socialInstagram",
         color: "$whiteFixed",
         "&:hover": {
           backgroundColor: "$brand2",
