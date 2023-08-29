@@ -32,6 +32,7 @@ export const Contacts = () => {
             <ContactSectionText>
               <Text type="heading2" color="grey4">
                 Vamos conversar e{" "}
+
                 <Text as="span" type="heading2" color="socialInstagram">
                   desenvolver soluções para sua empresa
                 </Text>
